@@ -4,7 +4,7 @@
   "description": "test",
   "author": "zersoon",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/eric-test.js",
   "publishConfig": {
     "access": "public"
@@ -18,5 +18,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "c269397f03195e320e9043476767b000a7a0db15"
 }
