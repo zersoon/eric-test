@@ -7,5 +7,5 @@
 ```
 const ericTest = require('eric-test');
 
-// TODO: DEMONSTRATE API
+// TODO: DEMONSTRATE APIxxx
 ```
