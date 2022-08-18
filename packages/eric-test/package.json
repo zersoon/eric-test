@@ -1,0 +1,22 @@
+{
+  "name": "@zersoon/eric-test",
+  "version": "1.0.0",
+  "description": "test",
+  "author": "zersoon",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/eric-test.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
